@@ -1,0 +1,19 @@
+h1{
+    color : maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 5px;
+}
+a:hover{
+    color :darkred;
+}
